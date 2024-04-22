@@ -1,1 +1,1 @@
-# Celebrity-Face-Classification-Using-FastAI
+# Sport Image Classification Fastai
